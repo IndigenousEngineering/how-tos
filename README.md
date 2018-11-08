@@ -1,6 +1,6 @@
 # how-tos
 
-*demo notebooks for machine learning tools*
+*demo notebooks for python & machine learning tools*
 
 ## citations & docs
 
