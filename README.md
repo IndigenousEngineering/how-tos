@@ -2,8 +2,7 @@
 
 *demo notebooks for python & machine learning tools*
 
-##### coming soon:
-*more advanced notebooks & deep learning*
+#### coming soon: *advanced topics & deep learning*
 
 ## citations & docs
 
