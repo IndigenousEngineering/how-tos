@@ -2,6 +2,9 @@
 
 *demo notebooks for python & machine learning tools*
 
+##### coming soon:
+*more advanced notebooks & deep learning*
+
 ## citations & docs
 
 this repository makes use of a number of outside libraries and resources. here are a few, with documentation and other information.
